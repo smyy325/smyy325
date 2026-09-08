@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Flutter and JavaScript
 
-😍 My favorite project MemoMate
+😍 My favorite project [MemoMate]{https://github.com/smyy325/MemoMate}
 
 🤝 My group project FoodApp
 
